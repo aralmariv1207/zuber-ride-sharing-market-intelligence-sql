@@ -1,4 +1,4 @@
-# Zuber: Ride Sharing Market Intelligence - SQL
+# Zuber: Ride Sharing Market Intelligence
 
 ## About
 
